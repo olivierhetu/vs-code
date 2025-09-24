@@ -1,7 +1,20 @@
 .couleur-verte {
-    color: green;
+    color: black;
+}
+h2 {
+    color: lightcoral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(-45%);
 }
 
-h1 {
-    color: blue;
+body {
+    background-color: ghostwhite;
 }
+ h1 {
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            margin:0;
+        }
