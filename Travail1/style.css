@@ -1,8 +1,8 @@
 .couleur-verte {
-    color: black;
+    color: darkslategray;
 }
 h2 {
-    color: lightcoral;
+    color: darkgoldenrod;
     display: flex;
     justify-content: center;
     align-items: center;
